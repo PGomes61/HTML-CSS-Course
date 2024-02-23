@@ -1,0 +1,12 @@
+.type-box {
+  font-family: Arial;
+  font-size: 14px;
+  width: 450px;
+  padding-top: 9px;
+  padding-bottom: 9px;
+  padding-right: 10px;
+  border-radius: 20px;
+  border: none;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  text-indent: 15px;
+}

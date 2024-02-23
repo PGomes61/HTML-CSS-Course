@@ -1,0 +1,32 @@
+.photo {
+  width: 55px;
+  height: 55px;
+  object-fit: fill;
+  object-position: center;
+  border-radius: 33px;
+  vertical-align: middle;
+  margin-right: 8px;
+}
+
+.text {
+  font-family: Arial;
+  font-size: 18px;
+  border: none;
+  vertical-align: middle;
+  outline: none;
+  width: 320px;
+}
+
+.tweet {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 18px;
+  padding-right: 18px;
+  border-radius: 100px;
+  border: none;
+  background-color: rgb(40, 149, 252);
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  vertical-align: middle;
+}

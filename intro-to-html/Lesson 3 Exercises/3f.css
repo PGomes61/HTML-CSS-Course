@@ -1,0 +1,62 @@
+.link {
+  font-size: 19.5px;
+  transition: color 0.1s;
+}
+
+.link:hover {
+  color: rgba(199, 120, 18, 0.959)
+}
+
+.product {
+  font-size: 28px;
+  font-weight: bolder;
+}
+
+.price {
+  font-weight: bold;
+  font-size: 19.5px;
+  color: rgb(0, 188, 0);
+}
+
+.delivery {
+  font-size: 19.5px;
+}
+
+button {
+  color: black;
+  border: none;
+  height: 36px;
+  width: 149px;
+  border-radius: 18px;
+  font-size: 17px;
+  cursor: pointer;
+  transition: background-color 0.12s,
+    box-shadow 0.12s;
+}
+
+.add {
+  background-color: rgb(231, 200, 43);
+  margin-right: 11px;
+}
+
+.add:hover {
+  background-color: rgb(196, 167, 26);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.add:active {
+  opacity: 0.65;
+}
+
+.buy {
+  background-color: rgb(224, 119, 21);
+}
+
+.buy:hover {
+  background-color: rgb(199, 96, 0);
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.buy:active {
+  opacity: 0.65;
+}

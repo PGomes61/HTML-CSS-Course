@@ -1,0 +1,35 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-family: Arial;
+  font-size: 14px;
+  color: gray;
+}
+
+.email {
+  margin-bottom: 8px;
+}
+
+.text-box {
+  width: 345px;
+  height: 25px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  text-indent: 5px;
+}
+
+.description {
+  margin-bottom: 20px;
+}
+
+.agree {
+  width: 352px;
+  height: 45px;
+  background-color: rgb(75, 117, 160);
+  color: white;
+  border: none;
+  border-radius: 23px;
+}

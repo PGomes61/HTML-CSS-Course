@@ -1,0 +1,18 @@
+p {
+    font-family: Arial;
+    font-size: 18px;
+    width: 560px;
+  }
+
+  .account {
+    font-weight: bold;
+  }
+
+  .status {
+    font-weight: normal;
+    color: rgb(100, 100, 100);
+  }
+
+  .tag {
+    color: rgb(40, 149, 252);
+  }
